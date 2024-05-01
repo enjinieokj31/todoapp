@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": "badf",
+      "name": "Kartik",
+      "email": "kartikj@gmail.com",
+      "password": "kartik123"
+    },
+    {
+      "id": "70c3",
+      "name": "Vipin",
+      "email": "vipinkumar@gmail.com",
+      "password": "vipin123"
+    },
+    {
+      "id": "786d",
+      "name": "Sahil",
+      "email": "sahilth@gmail.com",
+      "password": "123sahil4"
+    },
+    {
+      "id": "4ec5",
+      "name": "Rewa",
+      "email": "rewaj@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "6756",
+      "name": "rishab",
+      "email": "rishab01@gmail.com",
+      "password": "rishab123"
+    },
+    {
+      "id": "0dba",
+      "name": "arsh",
+      "email": "arsh12@gmail.com",
+      "password": "arsh345"
+    },
+    {
+      "id": "e7a8",
+      "name": "harman",
+      "email": "harman01@gmail.com",
+      "password": "har123"
+    },
+    {
+      "id": "5252",
+      "name": "Arman",
+      "email": "arman03@gmail.com",
+      "password": "arman345"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "04bb",
+      "title": "Meeting",
+      "userId": "70c3",
+      "modified": "Fri Feb 02 2024 11:33:14 GMT+0530 (India Standard Time)",
+      "role": "user",
+      "description": "Meeting with client",
+      "duedate": "2024-02-02T11:33"
+    },
+    {
+      "id": "8291",
+      "title": "Interaction",
+      "userId": "70c3",
+      "modified": "Fri Feb 02 2024 11:34:38 GMT+0530 (India Standard Time)",
+      "role": "user",
+      "description": "Interaction with the boss",
+      "duedate": "2024-02-02T11:34"
+    },
+    {
+      "id": "b202",
+      "title": "Gym",
+      "userId": "70c3",
+      "modified": "Fri Feb 02 2024 11:35:40 GMT+0530 (India Standard Time)",
+      "role": "user",
+      "description": "Exercising in the gym",
+      "duedate": "2024-02-02T11:35"
+    },
+    {
+      "id": "b3bd",
+      "title": "Breakfast",
+      "userId": "70c3",
+      "modified": "Fri Feb 02 2024 12:14:10 GMT+0530 (India Standard Time)",
+      "role": "user",
+      "description": "Eating breakfast",
+      "duedate": "2024-02-22T12:14"
+    },
+    {
+      "id": "93ec",
+      "title": "Feed",
+      "userId": "70c3",
+      "modified": "Thu Feb 08 2024 12:09:27 GMT+0530 (India Standard Time)",
+      "role": "user",
+      "description": " Feeding the pet",
+      "duedate": "2024-02-21T11:50"
+    },
+    {
+      "id": "f6e6",
+      "title": "",
+      "description": "",
+      "duedate": ""
+    },
+    {
+      "id": "61d1",
+      "title": "Website",
+      "description": "Making websites.",
+      "duedate": "2024-02-29T12:05",
+      "userId": "5252",
+      "modified": "Fri Feb 09 2024 12:05:15 GMT+0530 (India Standard Time)",
+      "role": "user"
+    },
+    {
+      "id": "34b3",
+      "title": "Gym",
+      "description": "Do the exercise",
+      "duedate": "2024-02-09T12:15",
+      "userId": "5252",
+      "modified": "Fri Feb 09 2024 12:15:34 GMT+0530 (India Standard Time)",
+      "role": "user"
+    },
+    {
+      "id": "53a3",
+      "title": "Feeding",
+      "description": "Pet Feeding",
+      "duedate": "2024-02-20T12:17",
+      "userId": "5252",
+      "modified": "Fri Feb 09 2024 12:17:46 GMT+0530 (India Standard Time)",
+      "role": "user"
+    }
+  ]
+}
